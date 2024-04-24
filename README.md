@@ -1,10 +1,13 @@
 <h1 align="center" id="title">Shuraa Digital</h1>
 
+<p align="center"><img src="https://socialify.git.ci/syedDayim/Notes-App/image?description=1&amp;descriptionEditable=&amp;font=Source%20Code%20Pro&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;theme=Light" alt="project-image"></p>
+
 <p id="description">This application enables programmers to track your thoughts. You can organize your tracked thoughts by editing them if you feel that a previous thought needs refinement. Additionally you have the option to delete thoughts that you deem unnecessary. The application has a room for improvement you are welcomed to contribute to this application and make it better.</p>
 
 <h2>Project Screenshots:</h2>
 
 ![ThoughtsApp](https://github.com/syedDayim/Notes-App/assets/90561337/ad7f353a-63ad-4ede-a24f-ffd9e15f610f)
+
   
   
 <h2>🧐 Features</h2>
