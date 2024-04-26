@@ -49,6 +49,7 @@ Technologies used in the project:
 *   React-mde
 *   react-split
 *   LocalStorage
+*   Firebase
 
 <h2>💖Like my work?</h2>
 
