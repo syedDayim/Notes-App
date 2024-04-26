@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Shuraa Digital</h1>
+<h1 align="center" id="title">Markdown Notes App</h1>
 
 <p align="center"><img src="https://socialify.git.ci/syedDayim/Notes-App/image?description=1&amp;descriptionEditable=&amp;font=Source%20Code%20Pro&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;theme=Light" alt="project-image"></p>
 
